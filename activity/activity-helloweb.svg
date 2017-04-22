@@ -23,4 +23,7 @@
     <line x1="7.4720001" x2="47.278" y1="27.5" y2="27.5"
        id="line18" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3.5" />
   </g>
+  <g id='w' style="display:inline">
+    <text x="30" y="52" stroke="&stroke_color;" stroke-width="2.5" Style="font-size : 18;">W</text>
+  </g>
 </svg>
